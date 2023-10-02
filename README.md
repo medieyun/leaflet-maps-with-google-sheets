@@ -20,7 +20,7 @@ To geocode (find latitude and longitude coordinates), we recommend installing th
   - OR
 - Get your own Google Sheets API Key to insert into `google-doc-url.js`
 
-See Steps G or H in the tutorial https://handsondataviz.org/leaflet-maps-with-google-sheets.html
+See Steps G or H in the tutorial https://medieyun.org/leaflet-maps-with-google-sheets.html
 
 ## Update your code for any pre-October 2020 maps before January 2021
 If you used our code to create a map prior to October 2020, you will need to update your version before January 26, 2021 for it to continue to work. Google announced that it will [migrate from Google Sheets API v3 to v4 in Jan 2021](https://developers.google.com/sheets/api/v3), and we updated our code to v1.2 on September 29th to address Google's changes.
